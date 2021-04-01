@@ -1,0 +1,26 @@
+.btn-mobile-trigger {
+    width: 40px;
+}
+.btn-white-outline {
+    color: #b07908;
+    background-image: none;
+    background-color: transparent;
+    border-color: #b07908;
+}
+h1 {
+    font-family: 'Helvetica Neue','Open Sans',Arial,sans-serif;
+    font-weight: 500;
+    font-size: 3rem;
+    margin-top: 20px;
+}
+.back-to-casino {
+    display: none;
+}
+a {
+    -webkit-transition: color .2s ease;
+    transition: color .2s ease;
+    color: #b07908;
+}
+.site-logo img {
+    max-width: 280px;
+}

@@ -1,0 +1,16 @@
+
+  
+  .vertical-menu a {
+    color:#fff;
+    background:#272e38;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+    text-align: center;
+  }
+  
+  .vertical-menu a:hover {
+    background: #e74c3c;
+    color:#fff;
+  }
+  

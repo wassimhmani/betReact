@@ -1,0 +1,26 @@
+.hiddenRow {
+    padding: 0 !important;
+}
+.team-names-block {
+    display: flex;
+    align-items: center;
+    flex: 1;
+    margin-right: 10px;
+    overflow: hidden;
+}
+.star {
+    margin-top: 2px;
+    font-size: 16px;
+}
+.row .event {
+    padding-right: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.row-inner .event {
+    max-width: 70%;
+}
+.row span {
+    padding: 0 10px;
+}
